@@ -1,0 +1,1535 @@
+{
+ "chapters": [
+  {
+   "id": "front-cover",
+   "title": "Front Cover",
+   "pdfStart": 1,
+   "pdfEnd": 2,
+   "start": null,
+   "end": null
+  },
+  {
+   "id": "international-flags-and-pennants",
+   "title": "International Flags and Pennants",
+   "pdfStart": 3,
+   "pdfEnd": 3,
+   "start": null,
+   "end": null
+  },
+  {
+   "id": "preface",
+   "title": "Preface",
+   "pdfStart": 4,
+   "pdfEnd": 5,
+   "start": null,
+   "end": null
+  },
+  {
+   "id": "chapter-1-signaling-instructions",
+   "title": "Chapter 1 \u00b7 Signaling Instructions",
+   "pdfStart": 6,
+   "pdfEnd": 29,
+   "start": 1,
+   "end": 24
+  },
+  {
+   "id": "chapter-2-general-signal-code",
+   "title": "Chapter 2 \u00b7 General Signal Code",
+   "pdfStart": 30,
+   "pdfEnd": 107,
+   "start": 25,
+   "end": 102
+  },
+  {
+   "id": "chapter-3-medical-signal-code",
+   "title": "Chapter 3 \u00b7 Medical Signal Code",
+   "pdfStart": 108,
+   "pdfEnd": 138,
+   "start": 103,
+   "end": 133
+  },
+  {
+   "id": "chapter-4-distress-and-lifesaving-signals-and-radiotelephone",
+   "title": "Chapter 4 \u00b7 Distress and Lifesaving Signals and Radiotelephone Procedures",
+   "pdfStart": 139,
+   "pdfEnd": 150,
+   "start": 134,
+   "end": 145
+  },
+  {
+   "id": "appendix",
+   "title": "Appendix",
+   "pdfStart": 151,
+   "pdfEnd": 153,
+   "start": 146,
+   "end": 148
+  },
+  {
+   "id": "indexes",
+   "title": "Indexes",
+   "pdfStart": 154,
+   "pdfEnd": 154,
+   "start": 149,
+   "end": 149
+  },
+  {
+   "id": "signal-index",
+   "title": "Signal Index",
+   "pdfStart": 155,
+   "pdfEnd": 157,
+   "start": 150,
+   "end": 152
+  },
+  {
+   "id": "medical-index",
+   "title": "Medical Index",
+   "pdfStart": 158,
+   "pdfEnd": 159,
+   "start": 153,
+   "end": 154
+  }
+ ],
+ "outline": [
+  {
+   "level": 1,
+   "title": "Front Cover",
+   "pdfPage": 1,
+   "page": null,
+   "chapter": "front-cover",
+   "anchor": null
+  },
+  {
+   "level": 1,
+   "title": "International Flags and Pennants",
+   "pdfPage": 3,
+   "page": null,
+   "chapter": "international-flags-and-pennants",
+   "anchor": null
+  },
+  {
+   "level": 1,
+   "title": "Preface",
+   "pdfPage": 4,
+   "page": null,
+   "chapter": "preface",
+   "anchor": null
+  },
+  {
+   "level": 1,
+   "title": "Chapter 1 \u00b7 Signaling Instructions",
+   "pdfPage": 6,
+   "page": 1,
+   "chapter": "chapter-1-signaling-instructions",
+   "anchor": "p1"
+  },
+  {
+   "level": 2,
+   "title": "Explanation and General Remarks",
+   "pdfPage": 7,
+   "page": 2,
+   "chapter": "chapter-1-signaling-instructions",
+   "anchor": "p2"
+  },
+  {
+   "level": 2,
+   "title": "Definitions",
+   "pdfPage": 8,
+   "page": 3,
+   "chapter": "chapter-1-signaling-instructions",
+   "anchor": "p3"
+  },
+  {
+   "level": 2,
+   "title": "Methods of Signaling",
+   "pdfPage": 9,
+   "page": 4,
+   "chapter": "chapter-1-signaling-instructions",
+   "anchor": "p4"
+  },
+  {
+   "level": 2,
+   "title": "General Instructions",
+   "pdfPage": 10,
+   "page": 5,
+   "chapter": "chapter-1-signaling-instructions",
+   "anchor": "p5"
+  },
+  {
+   "level": 2,
+   "title": "Flag Signaling",
+   "pdfPage": 13,
+   "page": 8,
+   "chapter": "chapter-1-signaling-instructions",
+   "anchor": "p8"
+  },
+  {
+   "level": 2,
+   "title": "Flashing Light Signaling",
+   "pdfPage": 15,
+   "page": 10,
+   "chapter": "chapter-1-signaling-instructions",
+   "anchor": "p10"
+  },
+  {
+   "level": 2,
+   "title": "Sound Signaling",
+   "pdfPage": 17,
+   "page": 12,
+   "chapter": "chapter-1-signaling-instructions",
+   "anchor": "p12"
+  },
+  {
+   "level": 2,
+   "title": "Radiotelephony",
+   "pdfPage": 18,
+   "page": 13,
+   "chapter": "chapter-1-signaling-instructions",
+   "anchor": "p13"
+  },
+  {
+   "level": 2,
+   "title": "Signaling by Hand Flags or Arms",
+   "pdfPage": 19,
+   "page": 14,
+   "chapter": "chapter-1-signaling-instructions",
+   "anchor": "p14"
+  },
+  {
+   "level": 2,
+   "title": "Morse Symbols\u2014Phonetic Tables\u2014Procedure Signals",
+   "pdfPage": 21,
+   "page": 16,
+   "chapter": "chapter-1-signaling-instructions",
+   "anchor": "p16"
+  },
+  {
+   "level": 3,
+   "title": "Morse Symbols",
+   "pdfPage": 21,
+   "page": 16,
+   "chapter": "chapter-1-signaling-instructions",
+   "anchor": "p16"
+  },
+  {
+   "level": 3,
+   "title": "Procedure Signals",
+   "pdfPage": 24,
+   "page": 19,
+   "chapter": "chapter-1-signaling-instructions",
+   "anchor": "p19"
+  },
+  {
+   "level": 3,
+   "title": "Single Letter Signals",
+   "pdfPage": 26,
+   "page": 21,
+   "chapter": "chapter-1-signaling-instructions",
+   "anchor": "p21"
+  },
+  {
+   "level": 3,
+   "title": "Single Letter Signals with Complements",
+   "pdfPage": 27,
+   "page": 22,
+   "chapter": "chapter-1-signaling-instructions",
+   "anchor": "p22"
+  },
+  {
+   "level": 3,
+   "title": "Single Letter Signals between Icebreaker and Assisted Vessels",
+   "pdfPage": 28,
+   "page": 23,
+   "chapter": "chapter-1-signaling-instructions",
+   "anchor": "p23"
+  },
+  {
+   "level": 1,
+   "title": "Chapter 2 \u00b7 General Signal Code",
+   "pdfPage": 30,
+   "page": 25,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p25"
+  },
+  {
+   "level": 2,
+   "title": "Distress\u2014Emergency",
+   "pdfPage": 32,
+   "page": 27,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p27"
+  },
+  {
+   "level": 3,
+   "title": "Abandon",
+   "pdfPage": 32,
+   "page": 27,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p27"
+  },
+  {
+   "level": 3,
+   "title": "Accident\u2014Doctor\u2014Injured/Sick",
+   "pdfPage": 32,
+   "page": 27,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p27"
+  },
+  {
+   "level": 3,
+   "title": "Aircraft-Helicopter",
+   "pdfPage": 34,
+   "page": 29,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p29"
+  },
+  {
+   "level": 3,
+   "title": "Assistance",
+   "pdfPage": 36,
+   "page": 31,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p31"
+  },
+  {
+   "level": 3,
+   "title": "Boats\u2014Rafts",
+   "pdfPage": 39,
+   "page": 34,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p34"
+  },
+  {
+   "level": 3,
+   "title": "Disabled\u2014Drifting\u2014Sinking",
+   "pdfPage": 41,
+   "page": 36,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p36"
+  },
+  {
+   "level": 3,
+   "title": "Distress",
+   "pdfPage": 42,
+   "page": 37,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p37"
+  },
+  {
+   "level": 3,
+   "title": "Position",
+   "pdfPage": 44,
+   "page": 39,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p39"
+  },
+  {
+   "level": 3,
+   "title": "Search and Rescue",
+   "pdfPage": 46,
+   "page": 41,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p41"
+  },
+  {
+   "level": 3,
+   "title": "Survivors",
+   "pdfPage": 50,
+   "page": 45,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p45"
+  },
+  {
+   "level": 2,
+   "title": "Casualties\u2014Damages",
+   "pdfPage": 52,
+   "page": 47,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p47"
+  },
+  {
+   "level": 3,
+   "title": "Collision",
+   "pdfPage": 52,
+   "page": 47,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p47"
+  },
+  {
+   "level": 3,
+   "title": "Damages\u2014Repairs",
+   "pdfPage": 52,
+   "page": 47,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p47"
+  },
+  {
+   "level": 3,
+   "title": "Diver\u2014Underwater Operations",
+   "pdfPage": 54,
+   "page": 49,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p49"
+  },
+  {
+   "level": 3,
+   "title": "Fire\u2014Explosion",
+   "pdfPage": 54,
+   "page": 49,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p49"
+  },
+  {
+   "level": 3,
+   "title": "Grounding\u2014Beaching\u2014Refloating",
+   "pdfPage": 56,
+   "page": 51,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p51"
+  },
+  {
+   "level": 3,
+   "title": "Leak",
+   "pdfPage": 59,
+   "page": 54,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p54"
+  },
+  {
+   "level": 3,
+   "title": "Towing\u2014Tugs",
+   "pdfPage": 59,
+   "page": 54,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p54"
+  },
+  {
+   "level": 2,
+   "title": "Aids to Navigation\u2014Navigation\u2014Hydrography",
+   "pdfPage": 65,
+   "page": 60,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p60"
+  },
+  {
+   "level": 3,
+   "title": "Aids to Navigation",
+   "pdfPage": 65,
+   "page": 60,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p60"
+  },
+  {
+   "level": 3,
+   "title": "Bar",
+   "pdfPage": 65,
+   "page": 60,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p60"
+  },
+  {
+   "level": 3,
+   "title": "Bearings",
+   "pdfPage": 65,
+   "page": 60,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p60"
+  },
+  {
+   "level": 3,
+   "title": "Canal\u2014Channel\u2014Fairway",
+   "pdfPage": 66,
+   "page": 61,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p61"
+  },
+  {
+   "level": 3,
+   "title": "Course",
+   "pdfPage": 67,
+   "page": 62,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p62"
+  },
+  {
+   "level": 3,
+   "title": "Dangers to Navigation\u2014Warnings",
+   "pdfPage": 68,
+   "page": 63,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p63"
+  },
+  {
+   "level": 3,
+   "title": "Depth\u2014Draft",
+   "pdfPage": 71,
+   "page": 66,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p66"
+  },
+  {
+   "level": 3,
+   "title": "Electronic Navigation",
+   "pdfPage": 73,
+   "page": 68,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p68"
+  },
+  {
+   "level": 3,
+   "title": "Mines\u2014Minesweeping",
+   "pdfPage": 74,
+   "page": 69,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p69"
+  },
+  {
+   "level": 3,
+   "title": "Navigation Lights\u2014Searchlight",
+   "pdfPage": 75,
+   "page": 70,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p70"
+  },
+  {
+   "level": 3,
+   "title": "Navigating and Steering Instructions",
+   "pdfPage": 76,
+   "page": 71,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p71"
+  },
+  {
+   "level": 3,
+   "title": "Tide",
+   "pdfPage": 77,
+   "page": 72,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p72"
+  },
+  {
+   "level": 2,
+   "title": "Maneuvers",
+   "pdfPage": 79,
+   "page": 74,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p74"
+  },
+  {
+   "level": 3,
+   "title": "Ahead\u2014Astern",
+   "pdfPage": 79,
+   "page": 74,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p74"
+  },
+  {
+   "level": 3,
+   "title": "Alongside",
+   "pdfPage": 80,
+   "page": 75,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p75"
+  },
+  {
+   "level": 3,
+   "title": "To Anchor\u2014Anchor(S)\u2014Anchorage",
+   "pdfPage": 80,
+   "page": 75,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p75"
+  },
+  {
+   "level": 3,
+   "title": "Engines\u2014Propeller",
+   "pdfPage": 82,
+   "page": 77,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p77"
+  },
+  {
+   "level": 3,
+   "title": "Landing\u2014Boarding",
+   "pdfPage": 82,
+   "page": 77,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p77"
+  },
+  {
+   "level": 3,
+   "title": "Maneuvers",
+   "pdfPage": 83,
+   "page": 78,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p78"
+  },
+  {
+   "level": 3,
+   "title": "Proceed\u2014Underway",
+   "pdfPage": 83,
+   "page": 78,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p78"
+  },
+  {
+   "level": 3,
+   "title": "Speed",
+   "pdfPage": 85,
+   "page": 80,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p80"
+  },
+  {
+   "level": 3,
+   "title": "Stop\u2014Heave to",
+   "pdfPage": 86,
+   "page": 81,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p81"
+  },
+  {
+   "level": 2,
+   "title": "Miscellaneous",
+   "pdfPage": 87,
+   "page": 82,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p82"
+  },
+  {
+   "level": 3,
+   "title": "Cargo\u2014Ballast",
+   "pdfPage": 87,
+   "page": 82,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p82"
+  },
+  {
+   "level": 3,
+   "title": "Crew\u2014Persons on Board",
+   "pdfPage": 87,
+   "page": 82,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p82"
+  },
+  {
+   "level": 3,
+   "title": "Fishery",
+   "pdfPage": 88,
+   "page": 83,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p83"
+  },
+  {
+   "level": 3,
+   "title": "Pilot",
+   "pdfPage": 90,
+   "page": 85,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p85"
+  },
+  {
+   "level": 3,
+   "title": "Port\u2014Harbor",
+   "pdfPage": 90,
+   "page": 85,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p85"
+  },
+  {
+   "level": 3,
+   "title": "Miscellaneous",
+   "pdfPage": 91,
+   "page": 86,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p86"
+  },
+  {
+   "level": 2,
+   "title": "Meteorology\u2014Weather",
+   "pdfPage": 94,
+   "page": 89,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p89"
+  },
+  {
+   "level": 3,
+   "title": "Clouds",
+   "pdfPage": 94,
+   "page": 89,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p89"
+  },
+  {
+   "level": 3,
+   "title": "Gale\u2014Storm\u2014Tropical Storm",
+   "pdfPage": 94,
+   "page": 89,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p89"
+  },
+  {
+   "level": 3,
+   "title": "Ice\u2014Icebergs",
+   "pdfPage": 94,
+   "page": 89,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p89"
+  },
+  {
+   "level": 3,
+   "title": "Icebreaker",
+   "pdfPage": 96,
+   "page": 91,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p91"
+  },
+  {
+   "level": 3,
+   "title": "Atmospheric Pressure\u2014Temperature",
+   "pdfPage": 97,
+   "page": 92,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p92"
+  },
+  {
+   "level": 3,
+   "title": "Sea\u2014Swell",
+   "pdfPage": 98,
+   "page": 93,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p93"
+  },
+  {
+   "level": 3,
+   "title": "Visibility\u2014Fog",
+   "pdfPage": 99,
+   "page": 94,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p94"
+  },
+  {
+   "level": 3,
+   "title": "Weather\u2014Weather Forecast",
+   "pdfPage": 100,
+   "page": 95,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p95"
+  },
+  {
+   "level": 3,
+   "title": "Wind",
+   "pdfPage": 100,
+   "page": 95,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p95"
+  },
+  {
+   "level": 2,
+   "title": "Routing of Ships",
+   "pdfPage": 102,
+   "page": 97,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p97"
+  },
+  {
+   "level": 2,
+   "title": "Communications",
+   "pdfPage": 103,
+   "page": 98,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p98"
+  },
+  {
+   "level": 3,
+   "title": "Acknowledge\u2014Answer",
+   "pdfPage": 103,
+   "page": 98,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p98"
+  },
+  {
+   "level": 3,
+   "title": "Calling",
+   "pdfPage": 103,
+   "page": 98,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p98"
+  },
+  {
+   "level": 3,
+   "title": "Cancel",
+   "pdfPage": 103,
+   "page": 98,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p98"
+  },
+  {
+   "level": 3,
+   "title": "Communicate",
+   "pdfPage": 103,
+   "page": 98,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p98"
+  },
+  {
+   "level": 3,
+   "title": "Exercise",
+   "pdfPage": 105,
+   "page": 100,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p100"
+  },
+  {
+   "level": 3,
+   "title": "Reception\u2014Transmission",
+   "pdfPage": 105,
+   "page": 100,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p100"
+  },
+  {
+   "level": 3,
+   "title": "Repeat",
+   "pdfPage": 105,
+   "page": 100,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p100"
+  },
+  {
+   "level": 2,
+   "title": "International Health Regulations",
+   "pdfPage": 106,
+   "page": 101,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p101"
+  },
+  {
+   "level": 3,
+   "title": "Pratique Messages",
+   "pdfPage": 106,
+   "page": 101,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p101"
+  },
+  {
+   "level": 2,
+   "title": "Tables of Complements",
+   "pdfPage": 107,
+   "page": 102,
+   "chapter": "chapter-2-general-signal-code",
+   "anchor": "p102"
+  },
+  {
+   "level": 1,
+   "title": "Chapter 3 \u00b7 Medical Signal Code",
+   "pdfPage": 108,
+   "page": 103,
+   "chapter": "chapter-3-medical-signal-code",
+   "anchor": "p103"
+  },
+  {
+   "level": 2,
+   "title": "Explanation and Instructions",
+   "pdfPage": 109,
+   "page": 104,
+   "chapter": "chapter-3-medical-signal-code",
+   "anchor": "p104"
+  },
+  {
+   "level": 3,
+   "title": "Instructions to Masters",
+   "pdfPage": 109,
+   "page": 104,
+   "chapter": "chapter-3-medical-signal-code",
+   "anchor": "p104"
+  },
+  {
+   "level": 3,
+   "title": "Instructions to Doctors",
+   "pdfPage": 109,
+   "page": 104,
+   "chapter": "chapter-3-medical-signal-code",
+   "anchor": "p104"
+  },
+  {
+   "level": 3,
+   "title": "Examples",
+   "pdfPage": 110,
+   "page": 105,
+   "chapter": "chapter-3-medical-signal-code",
+   "anchor": "p105"
+  },
+  {
+   "level": 3,
+   "title": "Case One",
+   "pdfPage": 110,
+   "page": 105,
+   "chapter": "chapter-3-medical-signal-code",
+   "anchor": "p105"
+  },
+  {
+   "level": 3,
+   "title": "Case Two",
+   "pdfPage": 111,
+   "page": 106,
+   "chapter": "chapter-3-medical-signal-code",
+   "anchor": "p106"
+  },
+  {
+   "level": 2,
+   "title": "Request for Medical Assistance",
+   "pdfPage": 112,
+   "page": 107,
+   "chapter": "chapter-3-medical-signal-code",
+   "anchor": "p107"
+  },
+  {
+   "level": 3,
+   "title": "Request\u2014General Information",
+   "pdfPage": 112,
+   "page": 107,
+   "chapter": "chapter-3-medical-signal-code",
+   "anchor": "p107"
+  },
+  {
+   "level": 3,
+   "title": "Description of Patient",
+   "pdfPage": 112,
+   "page": 107,
+   "chapter": "chapter-3-medical-signal-code",
+   "anchor": "p107"
+  },
+  {
+   "level": 3,
+   "title": "Previous Health",
+   "pdfPage": 113,
+   "page": 108,
+   "chapter": "chapter-3-medical-signal-code",
+   "anchor": "p108"
+  },
+  {
+   "level": 3,
+   "title": "Localization of Symptoms, Diseases, or Injuries",
+   "pdfPage": 113,
+   "page": 108,
+   "chapter": "chapter-3-medical-signal-code",
+   "anchor": "p108"
+  },
+  {
+   "level": 3,
+   "title": "General Symptoms",
+   "pdfPage": 113,
+   "page": 108,
+   "chapter": "chapter-3-medical-signal-code",
+   "anchor": "p108"
+  },
+  {
+   "level": 3,
+   "title": "Particular Symptoms",
+   "pdfPage": 117,
+   "page": 112,
+   "chapter": "chapter-3-medical-signal-code",
+   "anchor": "p112"
+  },
+  {
+   "level": 3,
+   "title": "Progress Report",
+   "pdfPage": 126,
+   "page": 121,
+   "chapter": "chapter-3-medical-signal-code",
+   "anchor": "p121"
+  },
+  {
+   "level": 2,
+   "title": "Medical Advice",
+   "pdfPage": 128,
+   "page": 123,
+   "chapter": "chapter-3-medical-signal-code",
+   "anchor": "p123"
+  },
+  {
+   "level": 3,
+   "title": "Request for Additional Information",
+   "pdfPage": 128,
+   "page": 123,
+   "chapter": "chapter-3-medical-signal-code",
+   "anchor": "p123"
+  },
+  {
+   "level": 3,
+   "title": "Diagnosis",
+   "pdfPage": 128,
+   "page": 123,
+   "chapter": "chapter-3-medical-signal-code",
+   "anchor": "p123"
+  },
+  {
+   "level": 3,
+   "title": "Special Treatment",
+   "pdfPage": 128,
+   "page": 123,
+   "chapter": "chapter-3-medical-signal-code",
+   "anchor": "p123"
+  },
+  {
+   "level": 3,
+   "title": "Treatment by Medicaments",
+   "pdfPage": 130,
+   "page": 125,
+   "chapter": "chapter-3-medical-signal-code",
+   "anchor": "p125"
+  },
+  {
+   "level": 3,
+   "title": "Diet",
+   "pdfPage": 131,
+   "page": 126,
+   "chapter": "chapter-3-medical-signal-code",
+   "anchor": "p126"
+  },
+  {
+   "level": 3,
+   "title": "Childbirth",
+   "pdfPage": 131,
+   "page": 126,
+   "chapter": "chapter-3-medical-signal-code",
+   "anchor": "p126"
+  },
+  {
+   "level": 3,
+   "title": "Vaccination Against Smallpox",
+   "pdfPage": 131,
+   "page": 126,
+   "chapter": "chapter-3-medical-signal-code",
+   "anchor": "p126"
+  },
+  {
+   "level": 3,
+   "title": "General Instructions",
+   "pdfPage": 132,
+   "page": 127,
+   "chapter": "chapter-3-medical-signal-code",
+   "anchor": "p127"
+  },
+  {
+   "level": 2,
+   "title": "Tables of Complements",
+   "pdfPage": 133,
+   "page": 128,
+   "chapter": "chapter-3-medical-signal-code",
+   "anchor": "p128"
+  },
+  {
+   "level": 3,
+   "title": "Table M-1\u2014Regions of the Body",
+   "pdfPage": 133,
+   "page": 128,
+   "chapter": "chapter-3-medical-signal-code",
+   "anchor": "p128"
+  },
+  {
+   "level": 3,
+   "title": "Table M-2\u2014List of Common Diseases",
+   "pdfPage": 136,
+   "page": 131,
+   "chapter": "chapter-3-medical-signal-code",
+   "anchor": "p131"
+  },
+  {
+   "level": 3,
+   "title": "Table M-3\u2014List of Medicaments",
+   "pdfPage": 137,
+   "page": 132,
+   "chapter": "chapter-3-medical-signal-code",
+   "anchor": "p132"
+  },
+  {
+   "level": 1,
+   "title": "Chapter 4 \u00b7 Distress and Lifesaving Signals and Radiotelephone Procedures",
+   "pdfPage": 139,
+   "page": 134,
+   "chapter": "chapter-4-distress-and-lifesaving-signals-and-radiotelephone",
+   "anchor": "p134"
+  },
+  {
+   "level": 2,
+   "title": "Distress Signals",
+   "pdfPage": 140,
+   "page": 135,
+   "chapter": "chapter-4-distress-and-lifesaving-signals-and-radiotelephone",
+   "anchor": "p135"
+  },
+  {
+   "level": 3,
+   "title": "(Prescribed by the International Regulations for Preventing Collisions at Sea 1972)",
+   "pdfPage": 140,
+   "page": 135,
+   "chapter": "chapter-4-distress-and-lifesaving-signals-and-radiotelephone",
+   "anchor": "p135"
+  },
+  {
+   "level": 2,
+   "title": "Table of Lifesaving Signals",
+   "pdfPage": 141,
+   "page": 136,
+   "chapter": "chapter-4-distress-and-lifesaving-signals-and-radiotelephone",
+   "anchor": "p136"
+  },
+  {
+   "level": 3,
+   "title": "\u201cConflict and Permanent Identification of Rescue Craft\u201d",
+   "pdfPage": 146,
+   "page": 141,
+   "chapter": "chapter-4-distress-and-lifesaving-signals-and-radiotelephone",
+   "anchor": "p141"
+  },
+  {
+   "level": 2,
+   "title": "Radiotelephone Procedures",
+   "pdfPage": 148,
+   "page": 143,
+   "chapter": "chapter-4-distress-and-lifesaving-signals-and-radiotelephone",
+   "anchor": "p143"
+  },
+  {
+   "level": 3,
+   "title": "Reception of Safety Messages",
+   "pdfPage": 148,
+   "page": 143,
+   "chapter": "chapter-4-distress-and-lifesaving-signals-and-radiotelephone",
+   "anchor": "p143"
+  },
+  {
+   "level": 3,
+   "title": "Distress Transmitting Procedures",
+   "pdfPage": 148,
+   "page": 143,
+   "chapter": "chapter-4-distress-and-lifesaving-signals-and-radiotelephone",
+   "anchor": "p143"
+  },
+  {
+   "level": 3,
+   "title": "Examples of Distress Procedure",
+   "pdfPage": 148,
+   "page": 143,
+   "chapter": "chapter-4-distress-and-lifesaving-signals-and-radiotelephone",
+   "anchor": "p143"
+  },
+  {
+   "level": 3,
+   "title": "Phonetic Alphabet and Figure Spelling Tables Table 1",
+   "pdfPage": 149,
+   "page": 144,
+   "chapter": "chapter-4-distress-and-lifesaving-signals-and-radiotelephone",
+   "anchor": "p144"
+  },
+  {
+   "level": 4,
+   "title": "Indexes",
+   "pdfPage": 154,
+   "page": 149,
+   "chapter": "indexes",
+   "anchor": "p149"
+  },
+  {
+   "level": 5,
+   "title": "(See Separate Index for Medical Signal Code)",
+   "pdfPage": 155,
+   "page": 150,
+   "chapter": "signal-index",
+   "anchor": "p150"
+  },
+  {
+   "level": 5,
+   "title": "(Numbers refer to pages)",
+   "pdfPage": 155,
+   "page": 150,
+   "chapter": "signal-index",
+   "anchor": "p150"
+  },
+  {
+   "level": 4,
+   "title": "A",
+   "pdfPage": 155,
+   "page": 150,
+   "chapter": "signal-index",
+   "anchor": "p150"
+  },
+  {
+   "level": 4,
+   "title": "B",
+   "pdfPage": 155,
+   "page": 150,
+   "chapter": "signal-index",
+   "anchor": "p150"
+  },
+  {
+   "level": 4,
+   "title": "C",
+   "pdfPage": 155,
+   "page": 150,
+   "chapter": "signal-index",
+   "anchor": "p150"
+  },
+  {
+   "level": 4,
+   "title": "D",
+   "pdfPage": 155,
+   "page": 150,
+   "chapter": "signal-index",
+   "anchor": "p150"
+  },
+  {
+   "level": 4,
+   "title": "E",
+   "pdfPage": 155,
+   "page": 150,
+   "chapter": "signal-index",
+   "anchor": "p150"
+  },
+  {
+   "level": 4,
+   "title": "F",
+   "pdfPage": 155,
+   "page": 150,
+   "chapter": "signal-index",
+   "anchor": "p150"
+  },
+  {
+   "level": 4,
+   "title": "G",
+   "pdfPage": 156,
+   "page": 151,
+   "chapter": "signal-index",
+   "anchor": "p151"
+  },
+  {
+   "level": 4,
+   "title": "H",
+   "pdfPage": 156,
+   "page": 151,
+   "chapter": "signal-index",
+   "anchor": "p151"
+  },
+  {
+   "level": 4,
+   "title": "I",
+   "pdfPage": 156,
+   "page": 151,
+   "chapter": "signal-index",
+   "anchor": "p151"
+  },
+  {
+   "level": 4,
+   "title": "K",
+   "pdfPage": 156,
+   "page": 151,
+   "chapter": "signal-index",
+   "anchor": "p151"
+  },
+  {
+   "level": 4,
+   "title": "L",
+   "pdfPage": 156,
+   "page": 151,
+   "chapter": "signal-index",
+   "anchor": "p151"
+  },
+  {
+   "level": 4,
+   "title": "M",
+   "pdfPage": 156,
+   "page": 151,
+   "chapter": "signal-index",
+   "anchor": "p151"
+  },
+  {
+   "level": 4,
+   "title": "N",
+   "pdfPage": 156,
+   "page": 151,
+   "chapter": "signal-index",
+   "anchor": "p151"
+  },
+  {
+   "level": 4,
+   "title": "O",
+   "pdfPage": 156,
+   "page": 151,
+   "chapter": "signal-index",
+   "anchor": "p151"
+  },
+  {
+   "level": 4,
+   "title": "P",
+   "pdfPage": 156,
+   "page": 151,
+   "chapter": "signal-index",
+   "anchor": "p151"
+  },
+  {
+   "level": 4,
+   "title": "R",
+   "pdfPage": 157,
+   "page": 152,
+   "chapter": "signal-index",
+   "anchor": "p152"
+  },
+  {
+   "level": 4,
+   "title": "S",
+   "pdfPage": 157,
+   "page": 152,
+   "chapter": "signal-index",
+   "anchor": "p152"
+  },
+  {
+   "level": 4,
+   "title": "T",
+   "pdfPage": 157,
+   "page": 152,
+   "chapter": "signal-index",
+   "anchor": "p152"
+  },
+  {
+   "level": 4,
+   "title": "U",
+   "pdfPage": 157,
+   "page": 152,
+   "chapter": "signal-index",
+   "anchor": "p152"
+  },
+  {
+   "level": 4,
+   "title": "V",
+   "pdfPage": 157,
+   "page": 152,
+   "chapter": "signal-index",
+   "anchor": "p152"
+  },
+  {
+   "level": 4,
+   "title": "W",
+   "pdfPage": 157,
+   "page": 152,
+   "chapter": "signal-index",
+   "anchor": "p152"
+  },
+  {
+   "level": 4,
+   "title": "Z",
+   "pdfPage": 157,
+   "page": 152,
+   "chapter": "signal-index",
+   "anchor": "p152"
+  },
+  {
+   "level": 5,
+   "title": "Index",
+   "pdfPage": 158,
+   "page": 153,
+   "chapter": "medical-index",
+   "anchor": "p153"
+  },
+  {
+   "level": 5,
+   "title": "(Numbers Refer to Pages)",
+   "pdfPage": 158,
+   "page": 153,
+   "chapter": "medical-index",
+   "anchor": "p153"
+  },
+  {
+   "level": 4,
+   "title": "A",
+   "pdfPage": 158,
+   "page": 153,
+   "chapter": "medical-index",
+   "anchor": "p153"
+  },
+  {
+   "level": 4,
+   "title": "B",
+   "pdfPage": 158,
+   "page": 153,
+   "chapter": "medical-index",
+   "anchor": "p153"
+  },
+  {
+   "level": 4,
+   "title": "C",
+   "pdfPage": 158,
+   "page": 153,
+   "chapter": "medical-index",
+   "anchor": "p153"
+  },
+  {
+   "level": 4,
+   "title": "D",
+   "pdfPage": 158,
+   "page": 153,
+   "chapter": "medical-index",
+   "anchor": "p153"
+  },
+  {
+   "level": 4,
+   "title": "E",
+   "pdfPage": 158,
+   "page": 153,
+   "chapter": "medical-index",
+   "anchor": "p153"
+  },
+  {
+   "level": 4,
+   "title": "F",
+   "pdfPage": 158,
+   "page": 153,
+   "chapter": "medical-index",
+   "anchor": "p153"
+  },
+  {
+   "level": 4,
+   "title": "G",
+   "pdfPage": 158,
+   "page": 153,
+   "chapter": "medical-index",
+   "anchor": "p153"
+  },
+  {
+   "level": 4,
+   "title": "H",
+   "pdfPage": 158,
+   "page": 153,
+   "chapter": "medical-index",
+   "anchor": "p153"
+  },
+  {
+   "level": 4,
+   "title": "I",
+   "pdfPage": 158,
+   "page": 153,
+   "chapter": "medical-index",
+   "anchor": "p153"
+  },
+  {
+   "level": 4,
+   "title": "J",
+   "pdfPage": 158,
+   "page": 153,
+   "chapter": "medical-index",
+   "anchor": "p153"
+  },
+  {
+   "level": 4,
+   "title": "L",
+   "pdfPage": 158,
+   "page": 153,
+   "chapter": "medical-index",
+   "anchor": "p153"
+  },
+  {
+   "level": 4,
+   "title": "M",
+   "pdfPage": 158,
+   "page": 153,
+   "chapter": "medical-index",
+   "anchor": "p153"
+  },
+  {
+   "level": 4,
+   "title": "N",
+   "pdfPage": 158,
+   "page": 153,
+   "chapter": "medical-index",
+   "anchor": "p153"
+  },
+  {
+   "level": 4,
+   "title": "P",
+   "pdfPage": 158,
+   "page": 153,
+   "chapter": "medical-index",
+   "anchor": "p153"
+  },
+  {
+   "level": 4,
+   "title": "R",
+   "pdfPage": 159,
+   "page": 154,
+   "chapter": "medical-index",
+   "anchor": "p154"
+  },
+  {
+   "level": 4,
+   "title": "S",
+   "pdfPage": 159,
+   "page": 154,
+   "chapter": "medical-index",
+   "anchor": "p154"
+  },
+  {
+   "level": 4,
+   "title": "T",
+   "pdfPage": 159,
+   "page": 154,
+   "chapter": "medical-index",
+   "anchor": "p154"
+  },
+  {
+   "level": 4,
+   "title": "U",
+   "pdfPage": 159,
+   "page": 154,
+   "chapter": "medical-index",
+   "anchor": "p154"
+  },
+  {
+   "level": 4,
+   "title": "V",
+   "pdfPage": 159,
+   "page": 154,
+   "chapter": "medical-index",
+   "anchor": "p154"
+  },
+  {
+   "level": 4,
+   "title": "W",
+   "pdfPage": 159,
+   "page": 154,
+   "chapter": "medical-index",
+   "anchor": "p154"
+  },
+  {
+   "level": 1,
+   "title": "Appendix",
+   "pdfPage": 151,
+   "page": 146,
+   "chapter": "appendix",
+   "anchor": "p146"
+  },
+  {
+   "level": 1,
+   "title": "Indexes",
+   "pdfPage": 154,
+   "page": 149,
+   "chapter": "indexes",
+   "anchor": "p149"
+  },
+  {
+   "level": 1,
+   "title": "Signal Index",
+   "pdfPage": 155,
+   "page": 150,
+   "chapter": "signal-index",
+   "anchor": "p150"
+  },
+  {
+   "level": 1,
+   "title": "Medical Index",
+   "pdfPage": 158,
+   "page": 153,
+   "chapter": "medical-index",
+   "anchor": "p153"
+  }
+ ],
+ "offset": 5
+}

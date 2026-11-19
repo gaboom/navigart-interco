@@ -1,0 +1,841 @@
+{
+ "version": 1,
+ "edition": "NGA Pub. 102, 1969 (Revised 2020)",
+ "languages": [
+  "en"
+ ],
+ "entries": [
+  {
+   "id": "A",
+   "kind": "letter",
+   "char": "A",
+   "flag": "A",
+   "morse": ".-",
+   "hasMessage": true,
+   "soundRestricted": false,
+   "text": {
+    "en": {
+     "word": "Alfa",
+     "pronunciation": "AL FAH",
+     "message": "I have a diver down; keep well clear at slow speed."
+    }
+   },
+   "source": {
+    "letterSpelling": 22,
+    "morse": 21,
+    "singleLetter": 26,
+    "flags": 2
+   }
+  },
+  {
+   "id": "B",
+   "kind": "letter",
+   "char": "B",
+   "flag": "B",
+   "morse": "-...",
+   "hasMessage": true,
+   "soundRestricted": true,
+   "text": {
+    "en": {
+     "word": "Bravo",
+     "pronunciation": "BRAH VOH",
+     "message": "I am taking in, or discharging, or carrying dangerous goods."
+    }
+   },
+   "source": {
+    "letterSpelling": 22,
+    "morse": 21,
+    "singleLetter": 26,
+    "flags": 2
+   }
+  },
+  {
+   "id": "C",
+   "kind": "letter",
+   "char": "C",
+   "flag": "C",
+   "morse": "-.-.",
+   "hasMessage": true,
+   "soundRestricted": true,
+   "text": {
+    "en": {
+     "word": "Charlie",
+     "pronunciation": "CHAR LEE (or SHAR LEE)",
+     "message": "Yes (affirmative or \"The significance of the previous group should be read in the affirmative\")."
+    }
+   },
+   "source": {
+    "letterSpelling": 22,
+    "morse": 21,
+    "singleLetter": 26,
+    "flags": 2
+   }
+  },
+  {
+   "id": "D",
+   "kind": "letter",
+   "char": "D",
+   "flag": "D",
+   "morse": "-..",
+   "hasMessage": true,
+   "soundRestricted": true,
+   "text": {
+    "en": {
+     "word": "Delta",
+     "pronunciation": "DELL TAH",
+     "message": "Keep clear of me; I am maneuvering with difficulty."
+    }
+   },
+   "source": {
+    "letterSpelling": 22,
+    "morse": 21,
+    "singleLetter": 26,
+    "flags": 2
+   }
+  },
+  {
+   "id": "E",
+   "kind": "letter",
+   "char": "E",
+   "flag": "E",
+   "morse": ".",
+   "hasMessage": true,
+   "soundRestricted": true,
+   "text": {
+    "en": {
+     "word": "Echo",
+     "pronunciation": "ECK OH",
+     "message": "I am altering my course to starboard."
+    }
+   },
+   "source": {
+    "letterSpelling": 22,
+    "morse": 21,
+    "singleLetter": 26,
+    "flags": 2
+   }
+  },
+  {
+   "id": "F",
+   "kind": "letter",
+   "char": "F",
+   "flag": "F",
+   "morse": "..-.",
+   "hasMessage": true,
+   "soundRestricted": false,
+   "text": {
+    "en": {
+     "word": "Foxtrot",
+     "pronunciation": "FOKS TROT",
+     "message": "I am disabled; communicate with me."
+    }
+   },
+   "source": {
+    "letterSpelling": 22,
+    "morse": 21,
+    "singleLetter": 26,
+    "flags": 2
+   }
+  },
+  {
+   "id": "G",
+   "kind": "letter",
+   "char": "G",
+   "flag": "G",
+   "morse": "--.",
+   "hasMessage": true,
+   "soundRestricted": true,
+   "text": {
+    "en": {
+     "word": "Golf",
+     "pronunciation": "GOLF",
+     "message": "I require a pilot. When made by fishing vessels operating in close proximity on the fishing grounds it means: \"I am hauling nets\"."
+    }
+   },
+   "source": {
+    "letterSpelling": 22,
+    "morse": 21,
+    "singleLetter": 26,
+    "flags": 2
+   }
+  },
+  {
+   "id": "H",
+   "kind": "letter",
+   "char": "H",
+   "flag": "H",
+   "morse": "....",
+   "hasMessage": true,
+   "soundRestricted": true,
+   "text": {
+    "en": {
+     "word": "Hotel",
+     "pronunciation": "HOH TELL",
+     "message": "I have a pilot on board."
+    }
+   },
+   "source": {
+    "letterSpelling": 22,
+    "morse": 21,
+    "singleLetter": 26,
+    "flags": 2
+   }
+  },
+  {
+   "id": "I",
+   "kind": "letter",
+   "char": "I",
+   "flag": "I",
+   "morse": "..",
+   "hasMessage": true,
+   "soundRestricted": true,
+   "text": {
+    "en": {
+     "word": "India",
+     "pronunciation": "IN DEE AH",
+     "message": "I am altering my course to port."
+    }
+   },
+   "source": {
+    "letterSpelling": 22,
+    "morse": 21,
+    "singleLetter": 26,
+    "flags": 2
+   }
+  },
+  {
+   "id": "J",
+   "kind": "letter",
+   "char": "J",
+   "flag": "J",
+   "morse": ".---",
+   "hasMessage": true,
+   "soundRestricted": false,
+   "text": {
+    "en": {
+     "word": "Juliett",
+     "pronunciation": "JEW LEE ETT",
+     "message": "I am on fire and have dangerous cargo on board: keep well clear of me, or I am leaking dangerous cargo."
+    }
+   },
+   "source": {
+    "letterSpelling": 22,
+    "morse": 21,
+    "singleLetter": 26,
+    "flags": 2
+   }
+  },
+  {
+   "id": "K",
+   "kind": "letter",
+   "char": "K",
+   "flag": "K",
+   "morse": "-.-",
+   "hasMessage": true,
+   "soundRestricted": false,
+   "text": {
+    "en": {
+     "word": "Kilo",
+     "pronunciation": "KEY LOH",
+     "message": "I wish to communicate with you."
+    }
+   },
+   "source": {
+    "letterSpelling": 22,
+    "morse": 21,
+    "singleLetter": 26,
+    "flags": 2
+   }
+  },
+  {
+   "id": "L",
+   "kind": "letter",
+   "char": "L",
+   "flag": "L",
+   "morse": ".-..",
+   "hasMessage": true,
+   "soundRestricted": false,
+   "text": {
+    "en": {
+     "word": "Lima",
+     "pronunciation": "LEE MAH",
+     "message": "You should stop your vessel instantly."
+    }
+   },
+   "source": {
+    "letterSpelling": 22,
+    "morse": 21,
+    "singleLetter": 26,
+    "flags": 2
+   }
+  },
+  {
+   "id": "M",
+   "kind": "letter",
+   "char": "M",
+   "flag": "M",
+   "morse": "--",
+   "hasMessage": true,
+   "soundRestricted": false,
+   "text": {
+    "en": {
+     "word": "Mike",
+     "pronunciation": "MIKE",
+     "message": "My vessel is stopped and making no way through the water."
+    }
+   },
+   "source": {
+    "letterSpelling": 22,
+    "morse": 21,
+    "singleLetter": 26,
+    "flags": 2
+   }
+  },
+  {
+   "id": "N",
+   "kind": "letter",
+   "char": "N",
+   "flag": "N",
+   "morse": "-.",
+   "hasMessage": true,
+   "soundRestricted": false,
+   "text": {
+    "en": {
+     "word": "November",
+     "pronunciation": "NO VEM BER",
+     "message": "No (negative or \"The significance of the previous group should be read in the negative\"). This signal may be given only visually or by sound. For voice or radio transmission the signal should be \"NO\"."
+    }
+   },
+   "source": {
+    "letterSpelling": 22,
+    "morse": 21,
+    "singleLetter": 26,
+    "flags": 2
+   }
+  },
+  {
+   "id": "O",
+   "kind": "letter",
+   "char": "O",
+   "flag": "O",
+   "morse": "---",
+   "hasMessage": true,
+   "soundRestricted": false,
+   "text": {
+    "en": {
+     "word": "Oscar",
+     "pronunciation": "OSS CAH",
+     "message": "Man overboard."
+    }
+   },
+   "source": {
+    "letterSpelling": 22,
+    "morse": 21,
+    "singleLetter": 26,
+    "flags": 2
+   }
+  },
+  {
+   "id": "P",
+   "kind": "letter",
+   "char": "P",
+   "flag": "P",
+   "morse": ".--.",
+   "hasMessage": true,
+   "soundRestricted": false,
+   "text": {
+    "en": {
+     "word": "Papa",
+     "pronunciation": "PAH PAH",
+     "message": "In harbor.—All persons should report on board as the vessel is about to proceed to sea. At sea.—It may be used by fishing vessels to mean: \"My nets have come fast upon an obstruction\". It may also be used as a sound to mean: \"I require a pilot\"."
+    }
+   },
+   "source": {
+    "letterSpelling": 22,
+    "morse": 21,
+    "singleLetter": 26,
+    "flags": 2
+   }
+  },
+  {
+   "id": "Q",
+   "kind": "letter",
+   "char": "Q",
+   "flag": "Q",
+   "morse": "--.-",
+   "hasMessage": true,
+   "soundRestricted": false,
+   "text": {
+    "en": {
+     "word": "Quebec",
+     "pronunciation": "KEH BECK",
+     "message": "My vessel is \"healthy\" and I request free pratique."
+    }
+   },
+   "source": {
+    "letterSpelling": 22,
+    "morse": 21,
+    "singleLetter": 26,
+    "flags": 2
+   }
+  },
+  {
+   "id": "R",
+   "kind": "letter",
+   "char": "R",
+   "flag": "R",
+   "morse": ".-.",
+   "hasMessage": false,
+   "soundRestricted": false,
+   "text": {
+    "en": {
+     "word": "Romeo",
+     "pronunciation": "ROW ME OH"
+    }
+   },
+   "source": {
+    "letterSpelling": 22,
+    "morse": 21,
+    "flags": 2
+   }
+  },
+  {
+   "id": "S",
+   "kind": "letter",
+   "char": "S",
+   "flag": "S",
+   "morse": "...",
+   "hasMessage": true,
+   "soundRestricted": true,
+   "text": {
+    "en": {
+     "word": "Sierra",
+     "pronunciation": "SEE AIR RAH",
+     "message": "I am operating astern propulsion."
+    }
+   },
+   "source": {
+    "letterSpelling": 22,
+    "morse": 21,
+    "singleLetter": 26,
+    "flags": 2
+   }
+  },
+  {
+   "id": "T",
+   "kind": "letter",
+   "char": "T",
+   "flag": "T",
+   "morse": "-",
+   "hasMessage": true,
+   "soundRestricted": true,
+   "text": {
+    "en": {
+     "word": "Tango",
+     "pronunciation": "TANG GO",
+     "message": "Keep clear of me; I am engaged in pair trawling."
+    }
+   },
+   "source": {
+    "letterSpelling": 22,
+    "morse": 21,
+    "singleLetter": 26,
+    "flags": 2
+   }
+  },
+  {
+   "id": "U",
+   "kind": "letter",
+   "char": "U",
+   "flag": "U",
+   "morse": "..-",
+   "hasMessage": true,
+   "soundRestricted": false,
+   "text": {
+    "en": {
+     "word": "Uniform",
+     "pronunciation": "YOU NEE FORM (or OO NEE FORM)",
+     "message": "You are running into danger."
+    }
+   },
+   "source": {
+    "letterSpelling": 22,
+    "morse": 21,
+    "singleLetter": 26,
+    "flags": 2
+   }
+  },
+  {
+   "id": "V",
+   "kind": "letter",
+   "char": "V",
+   "flag": "V",
+   "morse": "...-",
+   "hasMessage": true,
+   "soundRestricted": false,
+   "text": {
+    "en": {
+     "word": "Victor",
+     "pronunciation": "VIK TAH",
+     "message": "I require assistance."
+    }
+   },
+   "source": {
+    "letterSpelling": 22,
+    "morse": 21,
+    "singleLetter": 26,
+    "flags": 2
+   }
+  },
+  {
+   "id": "W",
+   "kind": "letter",
+   "char": "W",
+   "flag": "W",
+   "morse": ".--",
+   "hasMessage": true,
+   "soundRestricted": false,
+   "text": {
+    "en": {
+     "word": "Whiskey",
+     "pronunciation": "WISS KEY",
+     "message": "I require medical assistance."
+    }
+   },
+   "source": {
+    "letterSpelling": 22,
+    "morse": 21,
+    "singleLetter": 26,
+    "flags": 2
+   }
+  },
+  {
+   "id": "X",
+   "kind": "letter",
+   "char": "X",
+   "flag": "X",
+   "morse": "-..-",
+   "hasMessage": true,
+   "soundRestricted": false,
+   "text": {
+    "en": {
+     "word": "X-ray",
+     "pronunciation": "ECKS RAY",
+     "message": "Stop carrying out your intentions and watch for my signals."
+    }
+   },
+   "source": {
+    "letterSpelling": 22,
+    "morse": 21,
+    "singleLetter": 26,
+    "flags": 2
+   }
+  },
+  {
+   "id": "Y",
+   "kind": "letter",
+   "char": "Y",
+   "flag": "Y",
+   "morse": "-.--",
+   "hasMessage": true,
+   "soundRestricted": false,
+   "text": {
+    "en": {
+     "word": "Yankee",
+     "pronunciation": "YANG KEY",
+     "message": "I am dragging my anchor."
+    }
+   },
+   "source": {
+    "letterSpelling": 22,
+    "morse": 21,
+    "singleLetter": 26,
+    "flags": 2
+   }
+  },
+  {
+   "id": "Z",
+   "kind": "letter",
+   "char": "Z",
+   "flag": "Z",
+   "morse": "--..",
+   "hasMessage": true,
+   "soundRestricted": true,
+   "text": {
+    "en": {
+     "word": "Zulu",
+     "pronunciation": "ZOO LOO",
+     "message": "I require a tug. When made by fishing vessels operating in close proximity on the fishing grounds it means: \"I am shooting nets\"."
+    }
+   },
+   "source": {
+    "letterSpelling": 22,
+    "morse": 21,
+    "singleLetter": 26,
+    "flags": 2
+   }
+  },
+  {
+   "id": "1",
+   "kind": "numeral",
+   "char": "1",
+   "flag": "1",
+   "morse": ".----",
+   "hasMessage": false,
+   "soundRestricted": false,
+   "text": {
+    "en": {
+     "word": "Unaone",
+     "plain": "One",
+     "pronunciation": "OO-NAH-WUN"
+    }
+   },
+   "source": {
+    "figureSpelling": 23,
+    "morse": 21,
+    "flags": 2
+   }
+  },
+  {
+   "id": "2",
+   "kind": "numeral",
+   "char": "2",
+   "flag": "2",
+   "morse": "..---",
+   "hasMessage": false,
+   "soundRestricted": false,
+   "text": {
+    "en": {
+     "word": "Bissotwo",
+     "plain": "Two",
+     "pronunciation": "BEES-SOH-TOO"
+    }
+   },
+   "source": {
+    "figureSpelling": 23,
+    "morse": 21,
+    "flags": 2
+   }
+  },
+  {
+   "id": "3",
+   "kind": "numeral",
+   "char": "3",
+   "flag": "3",
+   "morse": "...--",
+   "hasMessage": false,
+   "soundRestricted": false,
+   "text": {
+    "en": {
+     "word": "Terrathree",
+     "plain": "Three",
+     "pronunciation": "TAY-RAH-TREE"
+    }
+   },
+   "source": {
+    "figureSpelling": 23,
+    "morse": 21,
+    "flags": 2
+   }
+  },
+  {
+   "id": "4",
+   "kind": "numeral",
+   "char": "4",
+   "flag": "4",
+   "morse": "....-",
+   "hasMessage": false,
+   "soundRestricted": false,
+   "text": {
+    "en": {
+     "word": "Kartefour",
+     "plain": "Four",
+     "pronunciation": "KAR-TAY-FOWER"
+    }
+   },
+   "source": {
+    "figureSpelling": 23,
+    "morse": 21,
+    "flags": 2
+   }
+  },
+  {
+   "id": "5",
+   "kind": "numeral",
+   "char": "5",
+   "flag": "5",
+   "morse": ".....",
+   "hasMessage": false,
+   "soundRestricted": false,
+   "text": {
+    "en": {
+     "word": "Pantafive",
+     "plain": "Five",
+     "pronunciation": "PAN-TAH-FIVE"
+    }
+   },
+   "source": {
+    "figureSpelling": 23,
+    "morse": 21,
+    "flags": 2
+   }
+  },
+  {
+   "id": "6",
+   "kind": "numeral",
+   "char": "6",
+   "flag": "6",
+   "morse": "-....",
+   "hasMessage": false,
+   "soundRestricted": false,
+   "text": {
+    "en": {
+     "word": "Soxisix",
+     "plain": "Six",
+     "pronunciation": "SOK-SEE-SIX"
+    }
+   },
+   "source": {
+    "figureSpelling": 23,
+    "morse": 21,
+    "flags": 2
+   }
+  },
+  {
+   "id": "7",
+   "kind": "numeral",
+   "char": "7",
+   "flag": "7",
+   "morse": "--...",
+   "hasMessage": false,
+   "soundRestricted": false,
+   "text": {
+    "en": {
+     "word": "Setteseven",
+     "plain": "Seven",
+     "pronunciation": "SAY-TAY-SEVEN"
+    }
+   },
+   "source": {
+    "figureSpelling": 23,
+    "morse": 21,
+    "flags": 2
+   }
+  },
+  {
+   "id": "8",
+   "kind": "numeral",
+   "char": "8",
+   "flag": "8",
+   "morse": "---..",
+   "hasMessage": false,
+   "soundRestricted": false,
+   "text": {
+    "en": {
+     "word": "Oktoeight",
+     "plain": "Eight",
+     "pronunciation": "OK-TOH-AIT"
+    }
+   },
+   "source": {
+    "figureSpelling": 23,
+    "morse": 21,
+    "flags": 2
+   }
+  },
+  {
+   "id": "9",
+   "kind": "numeral",
+   "char": "9",
+   "flag": "9",
+   "morse": "----.",
+   "hasMessage": false,
+   "soundRestricted": false,
+   "text": {
+    "en": {
+     "word": "Novenine",
+     "plain": "Nine",
+     "pronunciation": "NO-VAY-NINER"
+    }
+   },
+   "source": {
+    "figureSpelling": 23,
+    "morse": 21,
+    "flags": 2
+   }
+  },
+  {
+   "id": "0",
+   "kind": "numeral",
+   "char": "0",
+   "flag": "0",
+   "morse": "-----",
+   "hasMessage": false,
+   "soundRestricted": false,
+   "text": {
+    "en": {
+     "word": "Nadazero",
+     "plain": "Zero",
+     "pronunciation": "NAH-DAH-ZAY-ROH"
+    }
+   },
+   "source": {
+    "figureSpelling": 23,
+    "morse": 21,
+    "flags": 2
+   }
+  },
+  {
+   "id": "S1",
+   "kind": "substitute",
+   "flag": "S1",
+   "text": {
+    "en": {
+     "word": "1st Substitute"
+    }
+   },
+   "source": {
+    "flags": 2
+   }
+  },
+  {
+   "id": "S2",
+   "kind": "substitute",
+   "flag": "S2",
+   "text": {
+    "en": {
+     "word": "2nd Substitute"
+    }
+   },
+   "source": {
+    "flags": 2
+   }
+  },
+  {
+   "id": "S3",
+   "kind": "substitute",
+   "flag": "S3",
+   "text": {
+    "en": {
+     "word": "3rd Substitute"
+    }
+   },
+   "source": {
+    "flags": 2
+   }
+  },
+  {
+   "id": "CODE",
+   "kind": "code",
+   "flag": "CODE",
+   "text": {
+    "en": {
+     "word": "Code / Answering pennant (or decimal point)"
+    }
+   },
+   "source": {
+    "flags": 2
+   }
+  }
+ ]
+}
